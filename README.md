@@ -1,29 +1,38 @@
-## Ola, amigos!
----
+
 
 <p align="center">
-  <a href="https://github.com/pedro-bacellar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github"></picture></a>
-
-  <a href="https://github.com/pedro-bacellar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-      <img alt="GitHub" title="GitHub" height="32" width="32" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></picture></a>
-
-
 
 
   <a href="https://www.linkedin.com/in/pedro-franca-bacellar">
-    <img width="32" height="32" alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+    <img width="40" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/65349159-e6ca-46ec-b6ef-d4bf9589fa56"></a>
+
+  <a href="mailto:pedrofrancabacellar@gmail.com" alt="Gmail" target="_blank">
+    <img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/07fbde7a-93ee-4c23-9688-d28e928cd94e"></a>
+
+  <a href="https://github.com/pedro-bacellar">
+    <img width="40" height="40" alt="lastfm" src="https://github.com/user-attachments/assets/3e3f31a5-946b-4981-866e-fddd8a8bf183"></a>
 
   <a href="https://www.last.fm/pt/user/soundfds">
-    <img width="32" height="32" alt="lastfm" src="https://github.com/user-attachments/assets/50b594b4-0233-4c77-b4f0-c12efa87adc9"></a>
+    <img width="40" height="40" alt="lastfm" src="https://github.com/user-attachments/assets/2f9ed938-35e7-471f-bcac-8d7aa40393ff"></a>
+
+  <a href="https://steamcommunity.com/id/soundfds">
+    <img width="40" height="40" alt="lastfm" src="https://github.com/user-attachments/assets/f76237c4-136d-46f7-8318-ef5e56d0d369"></a>
+
+  <a href="https://letterboxd.com/SoundFds">
+    <img width="40" height="40" alt="lastfm" src="https://github.com/user-attachments/assets/f4188f76-f8bc-4d74-8030-8c1683e62c7d"></a>
 
 
 
+
+    
 </p>
+
+
+
+
+
+
+
 
 
 <p align="center">
