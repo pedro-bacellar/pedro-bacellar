@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Pedro+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
+  </a>
+  
+  <h2>
+    My Socials !
+  </h2>
 
 
 <p align="center">
@@ -27,13 +34,22 @@
     
 </p>
 
+<div align="center"><h2>
+  My Friends !
+</h2>
+  
+<h3>
+  <a href="https://github.com/gmdkaio">Kaio</a> | <a href="https://github.com/yukioktk">Kotaka</a>
+</h3>
+
+</div>
 
 
 
 
-
-
-
+<h2>
+  My Statistics !
+</h2>
 
 <p align="center">
 <a href="https://github.com/pedro-bacellar">
