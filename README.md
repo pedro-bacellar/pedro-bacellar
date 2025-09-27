@@ -1,8 +1,22 @@
 <div align="left">
-  <h1>Pedro Franca Bacellar
+  <h1>
+    🚀Pedro Franca Bacellar
   </h1>
 
 </div>
+
+
+<div align="left">
+  <p>
+    - Computer Science student at fbuni.
+  </p>
+
+</div>
+
+
+
+
+
 
 
 
@@ -39,11 +53,19 @@
 
 
 
+
+
+
+
+
+
+___
+
 <div align="left">
 
-  <h2>
-  My Friends
-  </h2>
+  <h3>
+  🎉FRIENDS
+  </h3>
   
 <h4>
   <a href="https://github.com/gmdkaio">Kaio</a> | <a href="https://github.com/yukioktk">Kotaka</a> | <a href="https://github.com/tiqui">Yuri</a> | <a href="https://github.com/manel-mendonca">Emanuel</a>
@@ -51,13 +73,22 @@
 
 </div>
 
+___
 
 
 
 
-  <h2>
-  Statistics
-  </h2>
+
+
+
+
+
+
+
+
+  <h3>
+  ⭐STATS
+  </h3>
 
 
 <p align="left">
