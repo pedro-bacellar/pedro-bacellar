@@ -6,23 +6,6 @@
 </div>
 
 
-<div align="left">
-  <p>
-    - Computer Science student at fbuni.
-  </p>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="left">
@@ -58,13 +41,33 @@
 
 
 
+<div align="left">
+  <p>
+    ● Computer Science student at fbuni. <br>
+    ● Learning Java.
+  </p>
 
-___
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
 
 <div align="left">
 
   <h3>
-  🎉FRIENDS
+  🎉Friends
   </h3>
   
 <h4>
@@ -87,7 +90,7 @@ ___
 
 
   <h3>
-  ⭐STATS
+  ⭐Stats
   </h3>
 
 
