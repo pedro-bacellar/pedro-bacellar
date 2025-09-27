@@ -1,3 +1,8 @@
+
+
+
+
+
 <div align="left">
   <h1>
     🚀Pedro Franca Bacellar
@@ -27,12 +32,11 @@
 
   <a href="https://letterboxd.com/SoundFds">
     <img width="32" height="32" alt="letterboxd" src="https://github.com/user-attachments/assets/f4188f76-f8bc-4d74-8030-8c1683e62c7d"></a>
+
+  <a href="https://open.spotify.com/user/0vyaxrutm0wojob1dhivonrw6">
+    <img width="32" height="32" alt="letterboxd" src="https://github.com/user-attachments/assets/1f57a890-f39d-4d7b-be66-df40e197c3af"></a>
     
 </p>
-
-
-
-
 
 
 
