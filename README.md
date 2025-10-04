@@ -68,12 +68,25 @@
 
 <h2></h2>
 
+<div align="left">
+  <h3>📫 Contact</h3>
+
+<ul>
+<li>✉️ Email: <b>pedrofrancabacellar@gmail.com</b></li>
+<li>🔗 LinkedIn: <b><a href="https://www.linkedin.com/in/pedro-franca-bacellar">Pedro Franca Bacellar</a></b></li>
+<li>💻 GitHub: <b><a href="https://github.com/pedro-bacellar">pedro-bacellar</a></b></li>
+</ul>
+
+</div>
 
 
 
 
 
 
+
+
+<h2></h2>
 
 <div align="left">
   <h3>🎉 Friends</h3>
@@ -91,27 +104,12 @@
 
 
 
-<h2></h2>
 
-<div align="left">
-  <h3>📫 Contact</h3>
 
-<ul>
-<li>✉️ Email: <b>pedrofrancabacellar@gmail.com</b></li>
-<li>🔗 LinkedIn: <b><a href="https://www.linkedin.com/in/pedro-franca-bacellar">Pedro Franca Bacellar</a></b></li>
-<li>💻 GitHub: <b><a href="https://github.com/pedro-bacellar">pedro-bacellar</a></b></li>
-</ul>
-
-</div>
 
 <h2></h2>
-
 
 <h3> ⭐Stats</h3>
-
-
-
-
 
   <tr>
      <td>
