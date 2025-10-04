@@ -5,7 +5,7 @@
 
 <div align="left">
   <h1>
-    🚀Pedro Franca Bacellar
+    🚀 Hey! I'm Pedro :)
   </h1>
 
 </div>
@@ -34,7 +34,7 @@
     <img width="32" height="32" alt="letterboxd" src="https://github.com/user-attachments/assets/f4188f76-f8bc-4d74-8030-8c1683e62c7d"></a>
 
   <a href="https://open.spotify.com/user/0vyaxrutm0wojob1dhivonrw6">
-    <img width="32" height="32" alt="letterboxd" src="https://github.com/user-attachments/assets/1f57a890-f39d-4d7b-be66-df40e197c3af"></a>
+    <img width="32" height="32" alt="spotify" src="https://github.com/user-attachments/assets/1f57a890-f39d-4d7b-be66-df40e197c3af"></a>
     
 </p>
 
@@ -44,45 +44,22 @@
 
 
 
-
 <div align="left">
-  <p>
-    ● Computer Science student at fbuni. <br>
-    ● Learning Java.
-  </p>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<h2></h2>
-
-
-
-
-
-
-
-
-<div align="left">
-
-  <h3>
-  🎉Friends
-  </h3>
+    <h3>👨‍💻 About Me</h3>
+<ul>
   
-<h4>
-  <a href="https://github.com/gmdkaio">Kaio</a> | <a href="https://github.com/yukioktk">Kotaka</a> | <a href="https://github.com/tiqui">Yuri</a> | <a href="https://github.com/manel-mendonca">Emanuel</a> | <a href="https://github.com/rafaeltod">Rafael Tod</a> | <a href="https://github.com/Aleussandro">Aleu</a>
-</h4>
+  <li>🎓 Computer Science student at <b>FBuni</b> </li>
+  <li>📚 Currently learning ☕ <b>Java</b> </li>
+  <li>❤️ I enjoy 🎵 <b>music</b>, 📖 <b>studying</b>, and 🏋️ <b>working out</b> </li>
+  <li>🏆 Goals: achieve <b>professional excellence</b> </li>
 
+</ul>
 </div>
+
+
+
+
+
 
 
 
@@ -96,9 +73,41 @@
 
 
 
-  <h3>
-  ⭐Stats
-  </h3>
+
+
+<div align="left">
+  <h3>🎉 Friends</h3>
+  <h4>
+    <a href="https://github.com/gmdkaio">Kaio</a> •
+    <a href="https://github.com/yukioktk">Kotaka</a> •
+    <a href="https://github.com/tiqui">Yuri</a> •
+    <a href="https://github.com/manel-mendonca">Emanuel</a> •
+    <a href="https://github.com/rafaeltod">Rafael Tod</a> •
+    <a href="https://github.com/Aleussandro">Aleu</a>
+  </h4>
+</div>
+
+
+
+
+
+<h2></h2>
+
+<div align="left">
+  <h3>📫 Contact</h3>
+
+<ul>
+<li>✉️ Email: <b>pedrofrancabacellar@gmail.com</b></li>
+<li>🔗 LinkedIn: <b><a href="https://www.linkedin.com/in/pedro-franca-bacellar">Pedro Franca Bacellar</a></b></li>
+<li>💻 GitHub: <b><a href="https://github.com/pedro-bacellar">pedro-bacellar</a></b></li>
+</ul>
+
+</div>
+
+<h2></h2>
+
+
+<h3> ⭐Stats</h3>
 
 
 
