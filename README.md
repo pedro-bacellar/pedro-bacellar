@@ -96,7 +96,8 @@
     <a href="https://github.com/tiqui">Yuri</a> •
     <a href="https://github.com/manel-mendonca">Emanuel</a> •
     <a href="https://github.com/rafaeltod">Rafael Tod</a> •
-    <a href="https://github.com/Aleussandro">Aleu</a>
+    <a href="https://github.com/Aleussandro">Aleu</a> •
+    <a href="https://github.com/zwtrz">Bianco</a>
   </h4>
 </div>
 
