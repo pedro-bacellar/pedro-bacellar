@@ -98,7 +98,8 @@
     <a href="https://github.com/rafaeltod">Rafael Tod</a> •
     <a href="https://github.com/Aleussandro">Aleu</a> •
     <a href="https://github.com/zwtrz">Bianco</a> •
-    <a href="https://github.com/GodPedin">Pedro</a>
+    <a href="https://github.com/GodPedin">Pedro</a> •
+    <a href="https://github.com/RaulRonald">Raul</a>
   </h4>
 </div>
 
