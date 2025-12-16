@@ -12,7 +12,7 @@
 
 
 
-
+<!-- 
 <p align="left">
 
   <a href="https://www.linkedin.com/in/pedro-franca-bacellar">
@@ -37,7 +37,7 @@
     <img width="32" height="32" alt="spotify" src="https://github.com/user-attachments/assets/1f57a890-f39d-4d7b-be66-df40e197c3af"></a>
     
 </p>
-
+-->
 
 
 
