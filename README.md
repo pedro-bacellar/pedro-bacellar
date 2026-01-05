@@ -50,7 +50,7 @@
   
   <li>🎓 Computer Science student at <b>FBuni</b> </li>
   <li>📚 Currently learning ☕ <b>Java</b> </li>
-  <li>❤️ I enjoy 🎵 <b>music</b>, 📖 <b>studying</b>, and 🏋️ <b>working out</b> </li>
+  <li>❤️ I enjoy <b>music</b>, <b>studying</b>, and <b>working out</b> </li>
   <li>🏆 Goals: achieve <b>professional excellence</b> </li>
 
 </ul>
@@ -60,13 +60,11 @@
 
 
 
-
-
-
-
-
-
 <h2></h2>
+
+
+
+
 
 <div align="left">
   <h3>📫 Contact</h3>
@@ -83,11 +81,11 @@
 
 
 
-
-
-
 <h2></h2>
 
+
+
+<!-- 
 <div align="left">
   <h3>🎉 Friends</h3>
   <h4>
@@ -102,15 +100,10 @@
     <a href="https://github.com/RaulRonald">Raul</a>
   </h4>
 </div>
+-->
 
 
 
-
-
-
-
-
-<h2></h2>
 
 <h3> ⭐Stats</h3>
 
