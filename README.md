@@ -49,9 +49,11 @@
 <ul>
   
   <li>🎓 Computer Science student at <b>FBuni</b> </li>
-  <li>📚 Currently learning ☕ <b>Java</b> </li>
-  <li>❤️ I enjoy <b>music</b>, <b>studying</b>, and <b>working out</b> </li>
-  <li>🏆 Goals: achieve <b>professional excellence</b> </li>
+  <li>☕ Focused on <b>Java</b> fundamentals and Object-Oriented Programming </li>
+  <li>🧠 Studying logic and clean code practices </li>
+  <li>📚 Daily exercises and weekly projects to reinforce learning </li>
+  <li>❤️ I enjoy <b>music</b>, <b>studying</b>, and <b>working out </b> </li>
+  <li>🏆 Goals: first internship </li>
 
 </ul>
 </div>
