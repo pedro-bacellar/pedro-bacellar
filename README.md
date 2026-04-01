@@ -1,16 +1,6 @@
-
-
-
-
-
 <div align="left">
-  <h1>
-    🚀 Hey! I'm Pedro :)
-  </h1>
-
+  <h1>Hey! I'm Pedro :)</h1>
 </div>
-
-
 
 <!-- 
 <p align="left">
@@ -39,37 +29,18 @@
 </p>
 -->
 
-
-
-
-
-
+<!--
 <div align="left">
-    <h3>👨‍💻 About Me</h3>
+    <h3>About Me</h3>
 <ul>
-  
-  <li>🎓 Computer Science student at <b>FBuni</b> </li>
-  <li>☕ Focused on <b>Java</b> fundamentals and Object-Oriented Programming </li>
-  <li>🧠 Studying logic and clean code practices </li>
-  <li>📚 Daily exercises and weekly projects to reinforce learning </li>
-  <li>❤️ I enjoy <b>music</b>, <b>studying</b>, and <b>working out </b> </li>
-  <li>🏆 Goals: first internship </li>
-
+  <li></li>
 </ul>
 </div>
-
-
-
-
-
-<h2></h2>
-
-
-
+-->
 
 
 <div align="left">
-  <h3>📫 Contact</h3>
+  <h3>Contact</h3>
 
 <ul>
 <li>✉️ Email: <b>pedrofrancabacellar@gmail.com</b></li>
